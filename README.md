@@ -1,8 +1,7 @@
-# fcc-algorithms-data-structure-projects
-Free Code Camp Algorithms and Data Structure Projects
-
-## Contributing
-This repository is the starter code featured in Dylan Israel's YouTube videos. Therefore, we most likely will not accept pull requests.
+# Algorithms and Data Structure projects
+All the projects from freecodecamp's Algorithms and Data Structure certification.
 
 ## Acknowledgements
-* FreeCodeCamp
+* freecodecamp
+* Dylan Israel
+* Stephen Mayeux
